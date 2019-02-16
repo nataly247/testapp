@@ -1,3 +1,3 @@
 # testapp
 
-to run print python testapp.py in cmd
+to run print `python testapp.py` in cmd
